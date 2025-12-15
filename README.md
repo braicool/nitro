@@ -7,7 +7,7 @@
 **Nitro** extends your Vite app with a **production-ready server**, designed to run **anywhere**.
 Add server routes, deploy across multiple platforms, and enjoy a **zero-config** experience.
 
-📘 **Docs (v3 Alpha):** [https://v3.nitro.build](https://v3.nitro.build)
+ (v3 Alpha):** [https://v3.nitro.build](https://v3.nitro.build)
 
 ## Contributing
 
